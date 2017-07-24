@@ -1,4 +1,5 @@
-# Mk8-cemu-graphics-packs
+# Mario Kart 8: Ultra Low resultion CEMU graphic packs
+----------------------------------------------------
 Here are some graphics packs for CEMU for mario kart 8. Most of these I made myself, based off of mk8_360p. enjoy
 I did not make MK8_360p and MK8_540P, only all the other ones
 
